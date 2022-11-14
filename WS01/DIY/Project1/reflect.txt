@@ -1,0 +1,22 @@
+/*
+Name: Sahibpreet Singh
+Student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+*/
+
+I learned a lot of topics in this workshop, after getting familiar with using namespace and #ifndef
+from my professor, it was time for me to apply those in the workshop. workshop 1 part 1 was okay, I just
+got some linking errors because I didn't put my variables in the implementation files. However, some
+error checking and introspection i was able to do it thanks to god.
+
+Then came the workshop 1 part 2, The most difficult part for me was the LoadDictionary function,
+because the format of this .txt file was something I had never seen. I was able to read the file,
+I was getting a problem in the implementation of the loop, because I wasn't able to figure out what to do 
+about the newline character, However after reeceiving help from my professor when she showed me a way of reading
+the newline character I was able to do it. The mistake was I was checking the new line character
+after the definitons, what was reuired was to read them before.
+The easiest function I could argue was the save Dictionary function, which I was thinking would be difficult as
+well, however it was just the inverse of loadDictionary function.
+
+After completing the load Dictionary function, I was able to grasp the next requirements easier than 
+this function, tackling some errors, and overcoming it I was able to complete this workshop 1 part2 thanks to god.

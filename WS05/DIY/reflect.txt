@@ -1,0 +1,23 @@
+/*
+Name: Sahibpreet Singh
+student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+date of submission: 16/02/2022
+*/
+
+Workshop part 1 wasn't that tough only the tester file mismatch was a problem which was solved by our professor.
+However, workshop part 2 was difficult as compared to all the workshops starting from workshop2 (workshop 1 was hard as well),.
+This workshop gave me a lot of problems as there were a lot of functions to be made and overloaded, 
+there were a lot of errors like the ambiguous function or the function definition should be different and stuff like that,
+I spent a lot of time understanding the difference, some needed to be constant which can't alter the object and can
+only return a value like int(),bool(),double() somehow I had to figure that out, then with the other functions as well
+they weren't working like the overloaded +=,-= and + operators. The issue got resolved by using a single keyword,
+const with the parameters, I spent like 2-3 hours trying different things an it got solved by using const.
+
+I really don't know why but my speculation is compiler differentiates between overloaded operators through the different parameters like if they are constant
+and other values.
+Another error at the time of submission of the last line with the + operator, I didn't need to return a mark object
+as with Mark object [] were printed due to the overloaded the cout function, so I changed its return type.
+Overall, I went back and forth in this workshop, a lot of changes were made.
+Cannot differnetiate by return type alone is an error I got a lot, however somehow i was able to overcome it
+and eventually complete this workshop thanks to God.

@@ -1,0 +1,17 @@
+/*
+Name: Sahibpreet singh
+student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+date of completion: 24 october 2022
+*/
+
+
+This workshop was a tough one as well for me. The w6p2 was ok however w6p1 gave me the more challenges than 
+the part 2. I encountered a lot of errors in the w6p1, first with the load file I had to +1 in the size
+because it was causing buffer overflow, somehow I was able to fix that, then I was getting an ambiguity error,
+which I still don't know the cause of. I received help from my professor regarding that, she sent me
+the fixed code, I tried to compare the code with my own code, I wasn't able to see much difference, however
+the file she sent was working and mine still wasn't.
+The next error which I got was a runtime error, the cause of it I was able to figure out due to the debugger.
+I found out that I wasn't copying the filename. So I fixed that and some other bugs I was able to 
+complete and submit it thanks to God.

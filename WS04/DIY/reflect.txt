@@ -1,0 +1,18 @@
+/*
+Name: Sahibpreet Singh
+Student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+Date of completion: 07 octtober 2022
+*/
+
+In  this workshop we practised constructors and destructors and how to work with operator references.
+The biggest trouble that I got was due to getline in ws4 part 1. The reason was I was implementing it wrong,
+because i forgot how to use the delimmiter and I was putting the second argument as the delimmiter.
+I was doing cinRef.getline(name,','); which was wrong because the 2nd argument should be the max number of chars.
+I rectfied my mistake by doing some rresearch on getline and then I was able to implement it correctly.
+The next one was at display function because my input buffer had a '\n' and a new line was printing which was sought
+by using cinRef.ignore();
+
+The second part of the workshop pushed me to think the structure and implementation of a whole class
+which included constructors detructors and many more other functions. I tried my best to implement DRY concept.
+I was able to complete this workshop without much trouble thanks to god.

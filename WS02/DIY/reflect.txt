@@ -1,0 +1,21 @@
+/*
+Name: Sahibpreet Singh
+Student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+*/
+
+In this workshop I learned about dynamic memory, how to create dynamic memory, how to store values
+in it and how to delete it using the delete keyword which deletes the value stored in the heap.
+In this workshop the main problem that I had was in storing the value dynamically in the double pointer.
+I had to revisit the difference between * and without star with the pointer, because I was confusing it
+with the char array and strings because they are initially they store the address of the variables stored in them
+So i had a problem with that concept only, (I might not have been able to clarify this well in the reflection)
+other than that the workshop led me to have a stronger grasp on these concepts which were explained 
+by our professor. Other than that , there were small errors which were due to my small mistakes,
+however I was able to overcome them thanks to god.
+
+The biggest problem that I faced and I struggled for 2 days to solve that problem. And at last I was 
+able to solve that error thanks to my professor, who helped me to point out my mistake and helped me to fix my issue.
+The memory leak error that I was getting because I didn't close my file. which caused a memory leak
+of 568 bytes and I wasn't able to figure out why, However when i sent my files to my professor, she pointed
+out my mistake and thanks to her I solved it.

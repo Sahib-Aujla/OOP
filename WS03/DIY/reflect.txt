@@ -1,0 +1,18 @@
+/*
+Name: Sahibpreet Singh
+Student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+date of submission: 30/09/2022
+*/
+
+In the workshop 3 I applied what I learned a week before by our professor. Through this workshop I 
+learned about input and ouput formatting with various new functions with cin and cout. It was a 
+bit difficult to grasp it on the first try, eventually when you try it for yourself you get a 
+better understanding. I had a lot of error with cout.fill() and cout.width() statements. I got confused that
+why it wasn't working well. for the other couts in the prnumber() function. Then I remembered a thing
+our professor said in the class, it was that cout.setf would be applied for all, however width and
+fill would only be applicable for one cout and needs to be reset afterwards.
+This saved me and I was able to identify and solve this problem.
+In workshop 2 part 2 the tricky thing was to understand the links between different classes. How to
+access the other class members for printing and calculating the length, however once that was figured
+out I was able to do this workshop thanks to god.
