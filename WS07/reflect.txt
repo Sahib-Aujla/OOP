@@ -1,0 +1,19 @@
+/*
+Name:Sahibpreet Singh
+Email: sahibpreet-singh1@myseneca.ca
+Student ID: 165338211
+Date:9 novemeber 2022
+Section: NEE
+*/
+
+
+The workshop 7 was based on the topic of inheritance and it helped me practice the concepts that 
+I learned in classroom via my professor. I learned about the base class and derived class concepts
+along with the protected access specifier as well. The workshop was fine and I didn't have much problem
+thanks to God. However project ms1 gave me a bit of headache. The biggest problem with tester functions
+is that you can't run them until you have written most of the code, so debugging becomes difficult.
+The biggest problem I had was with comparing the title with nullptr as the bool was returning the correct
+value but it wasn't evaluating it right, so I created an integer for the validatiin that was 0 or 1.
+Milestone was ok It didn't gave me much trouble I jsut have to implement a switch menu and implement that only.
+However I hope the other ones aren't tough as well.
+These milestones I completed thanks to the concepts I was taught and most importantly thanks to God.
