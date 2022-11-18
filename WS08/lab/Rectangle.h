@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #ifndef SDDS_RECTANGLE_H
 #define SDDS_RECTANGLE_H
 

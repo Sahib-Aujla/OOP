@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
@@ -11,7 +17,7 @@ namespace sdds {
 		m_length = 0;
 	}
 	Line::Line(const char* str,const int len):LblShape(str) {
-		if (len > 0) {
+		if (len > 0 && label()!=nullptr) {
 			m_length = len;
 		}
 	}
@@ -25,13 +31,14 @@ namespace sdds {
 	}
 	void Line::draw(std::ostream& os) const {
 		if (m_length > 0 && label() != nullptr) {
-			int labelLen = strlen(label());
-			int remainingWidth = m_length;
+			
+			os.setf(ios::left);
+			os.width(m_length);
+			os.fill('=');
 			os << label();
-			remainingWidth -= labelLen;
-			for (int i = 0; i < remainingWidth; i++) {
-				os << "=";
-			}
+			os.unsetf(ios::left);
+
+			
 		}
 	}
 }

@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #ifndef SDDS_LBLSHAPE_H
 #define SDDS_LBLSHAPE_H
 
@@ -6,7 +12,7 @@
 namespace sdds {
 
 	class LblShape :public Shape {
-		char* m_label;
+		char* m_label{nullptr};
 		void allocate(const char*);
 	protected:
 		char* label()const;
@@ -18,7 +24,7 @@ namespace sdds {
 		void getSpecs(std::istream&);
 		
 
-		~LblShape();
+		virtual ~LblShape();
 	};
 
 };

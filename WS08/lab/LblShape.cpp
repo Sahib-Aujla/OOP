@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include<cstring>
@@ -15,10 +21,12 @@ namespace sdds{
 	}
 	void LblShape::allocate(const char*str) {
 		if (str != nullptr && strlen(str) > 0) {
+			delete[]m_label;
 			m_label = new char[strlen(str) + 1];
 			strcpy(m_label, str);
 			
 		}
+		
 	}
 
 	LblShape::LblShape(const char* str) {

@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #ifndef SDDS_LINE_H
 #define SDDS_LINE_H
 #include "LblShape.h"

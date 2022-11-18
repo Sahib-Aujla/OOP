@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+email: sahibpreet-singh1@myseneca.ca
+Student id: 165338211
+Date: 14 november 2022
+*/
 #include<iostream>
 #include "Shape.h"
 
@@ -12,5 +18,6 @@ namespace sdds {
 		obj.getSpecs(in);
 		return in;
 	}
+
 }
 
