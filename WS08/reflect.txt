@@ -1,0 +1,12 @@
+Name: Sahibpreet Singh
+Student id; 165338211
+email:sahibpreet Singh
+
+Ws8 was based on the concepts of abstraction, I first revised the concepts of abstraction first
+and then started doing the workshop. The problem that I had were not because of abstraction but 
+due to some concepts that were from earlier. However this was an okay workshop.
+The ms3 however was a different story I had a lot of errors and it took a lot of my time to fix them,
+The error wasn't related much to abstraction concepts. I was literally solving an error for more than 3-4 hours
+and the error was just an = sign it was a logical error in the parkingspot because I thought that it is invalid if it 
+is less than equal to 0 and it was assigning the object to a safe empty space. However I used the debugger traced the code
+and found out this mistake after a long time. However thanks to god I was able to complete this workshop and milestone.
