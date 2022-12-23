@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+date: 23 November 2022
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 #include<cstring>

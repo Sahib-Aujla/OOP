@@ -1,3 +1,9 @@
+/*
+Name: Sahibpreet Singh
+student id: 165338211
+email: sahibpreet-singh1@myseneca.ca
+date: 23 November 2022
+*/
 #ifndef SDDS_HTMLTEXT_H
 #define SDDS_HTMLTEXT_H
 #include "Text.h"
